@@ -1,7 +1,7 @@
 
 "String 1" 
 "String 2" 
-"STrinG 3" 
+"stroke 3" 
 "String 4" 
 
  
